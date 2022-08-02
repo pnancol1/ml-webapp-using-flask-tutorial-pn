@@ -2,7 +2,7 @@
 # Machine learning web app using Flask
 <!-- endhide -->
 
-- In this project we will create a web app that predicts if a passenger would survive or not in Titanic. Do to that we will use our final titanic machine learning model and our new Flask skills!  
+- In this project we will create a web app that predicts if a passenger would survive or not in Titanic. To do that we will use our final titanic machine learning model and our new Flask skills!  
 
 >Don't forget to always be resourceful!
 
