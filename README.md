@@ -33,4 +33,4 @@ We will use the Titanic model (your .pkl file) to create a web application that 
 Deploy your app to Heroku!
 
 >Use your [Deploy model using Flask and Heroku](https://github.com/4GeeksAcademy/machine-learning-content/blob/master/07-1d-ml_deploy/deploy-model-using-flask-and-heroku.md) lesson to guide you on every step.
-https://github.com/4GeeksAcademy/machine-learning-content/blob/master/07-1d-ml_deploy/deploy-model-using-flask-and-heroku.md
+
