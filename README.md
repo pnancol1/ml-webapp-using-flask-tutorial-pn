@@ -2,7 +2,7 @@
 # Machine learning web app using Flask
 <!-- endhide -->
 
-- In this project we will create a web app that predicts if a passenger would survive or not in Titanic. To do that we will use our final titanic machine learning model and our new Flask skills!  
+- In this project we will create a machine learning web application. To do a beautiful one, you are free to choose the best model between all your previous projects, and apply your new Flask skills!  
 
 >Don't forget to always be resourceful!
 
@@ -26,7 +26,8 @@ Now that you have learned what your final structure should look like, add the ne
 
 **Step 2:**
 
-We will use the Titanic model (your .pkl file) to create a web application that after inserting some passenger features into the form, it predicts if that passenger would survive or not. Use a simple HTML form and show your new Flask skills to make a beautiful web app.
+Use the .pkl file (model) from the project of your preference to build a machine learning web application.
+For example, if you are using the Titanic model, it should request certain passenger features and predict if that passenger would survive or not. 
 
 **Step 3:**
 
