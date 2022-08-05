@@ -33,5 +33,5 @@ For example, if you are using the Titanic model, it should request certain passe
 
 Deploy your app to Heroku!
 
->Use your [Deploy model using Flask and Heroku](https://github.com/4GeeksAcademy/machine-learning-content/blob/master/07-1d-ml_deploy/deploy-model-using-flask-and-heroku.md) lesson to guide you on every step.
+>Use your [Deploy model using Flask and Heroku](https://github.com/4GeeksAcademy/machine-learning-content/blob/master/07-4d-ml_deploy/deploy-model-using-flask-and-heroku.md) lesson to guide you on every step.
 
