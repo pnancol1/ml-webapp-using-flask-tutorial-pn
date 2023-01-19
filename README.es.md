@@ -6,14 +6,14 @@
 
 > ¡No te olvides de ser siempre ingenioso!
 
-## 🌱  Cómo iniciar este proyecto
+## 🌱 Cómo iniciar este proyecto
 
 1. Crea un nuevo repositorio basado en el [proyecto de machine learning](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) haciendo [clic aquí](https://github.com/4GeeksAcademy/machine-learning-python-template).
 2. Abre el repositorio creado recientemente en Gitpod usando la [extensión del botón de Gitpod](https://www.gitpod.io/docs/browser-extension/).
 
 3. Una vez que Gitpod VSCode haya terminado de abrir, comienza tu proyecto siguiendo las instrucciones a continuación.
 
-## 🚛 How to deliver this project
+## 🚛 Cómo entregar este proyecto
 
 Una vez que hayas terminado de implementar tu aplicación de flask, asegúrate de hacerle commit tus cambios, hazle push a tu repositorio y ve a 4Geeks.com para cargar el enlace de la aplicación web.
 
