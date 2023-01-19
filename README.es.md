@@ -31,7 +31,7 @@ Nuevamente, usa el archivo .pkl (modelo) de tu proyecto preferido y crea tu apli
 
 **Step 2:**
 
-Use the .pkl file (model) from the project of your preference to build a machine learning web application. Por ejemplo, si está utilizando el modelo Titanic, debería solicitar ciertas características del pasajero y predecir si ese pasajero sobreviviría o no.
+Utiliza el archivo .pkl (modelo) del proyecto de tu preferencia para crear una aplicación web de Machine Learning. Por ejemplo, si estás utilizando el modelo Titanic, deberías solicitar ciertas características del pasajero y predecir si ese pasajero sobreviviría o no.
 
 **Paso 3:**
 
