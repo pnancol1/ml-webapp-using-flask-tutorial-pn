@@ -17,8 +17,6 @@
 
 Una vez que hayas terminado de implementar tu aplicación de flask, asegúrate de hacerle commit tus cambios, hazle push a tu repositorio y ve a 4Geeks.com para cargar el enlace de la aplicación web.
 
-Once you are finished deploying your flask app, make sure to commit your changes, push to your repository and go to 4Geeks.com to upload the web application link.
-
 ## 📝 Instrucciones
 
 **Paso 1:**
