@@ -1,37 +1,38 @@
 <!-- hide -->
-# Machine learning web app using Flask
+# Integration of a ML model in Render using Flask - Step-by-step guide
 <!-- endhide -->
 
-- In this project, we will create a machine learning web application. To do a beautiful one, you are free to choose the best model between all your previous projects, and apply your new **Flask** skills!  
-
-> Don't forget to always be resourceful!
+- Search and understand a new dataset.
+- Model the data using a Machine Learning, Deep Learning or NLP algorithm.
+- Analyze the results and optimize the model.
+- Integrate it into Render using a Flask-based application.
 
 ## 🌱  How to start this project
 
 You will not be forking this time, please take some time to read these instructions:
 
-1. Create a new repository based on a [machine learning project](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) by [clicking here](https://github.com/4GeeksAcademy/machine-learning-python-template).
-2. Open the recently created repository on Gitpod by using the [Gitpod button extension](https://www.gitpod.io/docs/browser-extension/).
-3. Once Gitpod VSCode has finished opening, you start your project following the Instructions below.
+1. Create a new repository based on [machine learning project](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) by [clicking here](https://github.com/4GeeksAcademy/machine-learning-python-template).
+2. Open the newly created repository in Codespace using the [Codespace button extension](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
+3. Once the Codespace VSCode has finished opening, start your project by following the instructions below.
 
 ## 🚛 How to deliver this project
 
-Once you are finished deploying your flask app, make sure to commit your changes, push to your repository and go to 4Geeks.com to upload the web application link.
+Once you are finished creating your linear regression model, make sure to commit your changes, push to your repository and go to 4Geeks.com to upload the repository link.
 
 ## 📝 Instructions
 
-**Step 1:**
+### Step 1: Find a dataset
 
-Now that you have learned what your final structure should look like, add the necessary files to the current project folder in order to have the correct structure, and edit the necessary ones.
+Research different online sources about different datasets that you could use to train a model. You can use some public API, the UCI repository for Machine Learning or the Kaggle section of [datasets](https://www.kaggle.com/datasets), among many other sources. Remember to look for a simple dataset as this is not the final project of the course.
 
-**Step 2:**
+### Step 2: Develop a model
 
-Use the .pkl file (model) from the project of your preference to build a machine learning web application.
-For example, if you are using the Titanic model, it should request certain passenger features and predict if that passenger would survive or not. 
+Once you have found your ideal data set, analyze it and train a model. Optimize it if necessary.
 
-**Step 3:**
+### Step 3: Develop a web application using Flask
 
-Deploy your app to Heroku!
+With the knowledge acquired in this module, develop an interface to be able to use the model. Give it the style that suits you best and note the external resources you have used for the development.
 
->Use your [Deploy model using Flask and Heroku](https://github.com/4GeeksAcademy/machine-learning-content/blob/master/07-4d-ml_deploy/deploy-model-using-flask-and-heroku.md) lesson to guide you on every step.
+### Step 4: Integrate the model and the application in Render
 
+Create a free service in Render and integrate the work you have done to be able to deploy the web application online. Don't forget to include the link to the service in your repository.
