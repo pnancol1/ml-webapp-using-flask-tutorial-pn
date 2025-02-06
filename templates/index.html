@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Will Your Breast Cancer Stay in Remission?</title>
+</head>
+<body>
+    <h2>Will Your Breast Cancer Stay in Remission?</h2>
+    
+    <form action="/" method="post">
+        <div>
+        Age: <input type="radio" id="30-39" name="val1" value=0>
+        <label for="30-39">30-39</label>
+        <input type="radio" id="40-49" name="val1" value=1>
+        <label for="40-49">40-49</label>
+        <input type="radio" id="50-59" name="val1" value=2>
+        <label for="50-59">50-59</label>
+        <input type="radio" id="60-69" name="val1" value=3>
+        <label for="60-69">60-69</label></div>
+        <div>
+        Menopause: <input type="radio" id="premeno" name="val2" value=0>
+        <label for="premeno">premeno</label>
+        <input type="radio" id="ge40" name="val2" value=1>
+        <label for="ge40">ge40</label></div>
+        <div>
+        Tumor Size: <input type="radio" id="0-10" name="val3" value=3>
+        <label for="0-10">0-10</label>
+        <input type="radio" id="10-20" name="val3" value=2>
+        <label for="10-20">10-20</label>
+        <input type="radio" id="20-30" name="val3" value=1>
+        <label for="20-30">20-30</label>
+        <input type="radio" id="30-40" name="val3" value=0>
+        <label for="30-40">30-40</label></div>
+        <div>
+        Degree Malign <input type="radio" id="1" name="val6" value=1>
+        <label for="1">1</label>
+        <input type="radio" id="2" name="val6" value=2>
+        <label for="2">2</label>
+        <input type="radio" id="3" name="val6" value=3>
+        <label for="3">3</label></div>
+        <div>
+        Breast <input type="radio" id="Left" name="val7" value=0>
+        <label for="Left">Left</label>
+        <input type="radio" id="Right" name="val7" value=1>
+        <label for="Right">Right</label></div>
+        <div>
+        Breast Quadrant: <input type="radio" id="Left-Low" name="val8" value=0>
+        <label for="Left-Low">Left-Low</label>
+        <input type="radio" id="Left-Up" name="val8" value=2>
+        <label for="Left-Up">Left-Up</label>
+        <input type="radio" id="Right-Low" name="val8" value=3>
+        <label for="Right-Low">Right-Low</label>
+        <input type="radio" id="Right-Up" name="val8" value=1>
+        <label for="Right-Up">Right-Up</label></div>
+        <div>
+        Irradiated: <input type="radio" id="Yes" name="val9" value=1>
+        <label for="Yes">Yes</label>
+        <input type="radio" id="No" name="val9" value=0>
+        <label for="No">No</label></div>
+
+
+        <input type="submit" value="Predict">
+    </form>
+    
+    {% if prediction != None %}
+        <h3>Prediction: {{ prediction }}</h3>
+    {% endif %}
+</body>
+</html>
