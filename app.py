@@ -2,7 +2,7 @@ from flask import Flask, request, render_template
 from pickle import load
 
 app = Flask(__name__)
-model = load(open("/workspaces/ml-webapp-using-flask-tutorial-pn/Breast_Cancer_Classifier.pkl", "rb"))
+model = load(open("Breast_Cancer_Classifier.pkl", "rb"))
 class_dict = {
     "0": "Remission",
     "1": "Non-remission"
